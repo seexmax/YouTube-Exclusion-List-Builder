@@ -338,20 +338,23 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
+  padding: 0;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
-
+  border-radius: 10px;
+  height: 85%;
+  width: 85%;
   box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,.1);
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
 p img {
-  display: inline;
-  margin: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 0;
   vertical-align: middle;
   text-align: center;
@@ -515,14 +518,14 @@ Full-Width Styles
 #project_title {
   margin: 0;
   color: #fff;
-  font-size: 42px;
+  font-size: 40px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
   color: #fff;
-  font-size: 24px;
+  font-size: 21px;
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
