@@ -28,7 +28,7 @@ that the app was blocked from use. Click on open anyway. Wait a minute and you s
 This project requires python 3.10 you can download it [here](https://www.python.org/downloads/release/python-3100/).
 
 ```bash
-git clone https://github.com/seexmax/YouTube-MadeForKids-Checker.git
+git clone https://github.com/seexmax/YouTube-Exclusion-List-Builder.git
 ```
 Open the project directory with `cd` and install the requirements. 
 ```bash
