@@ -11,10 +11,10 @@ This graphic user interface will help you to build along your campaign custom Yo
 
 ## Installation
 
-**1<sup>st</sup> option - Install YouTube MadeForKids Checker with executable file.**
+**1<sup>st</sup> option - Install YouTube Exclusion List Builder with executable file.**
 
 You can download the application here [YouTube-Exclusion-List-Builder.v1.0.zip
-](https://github.com/seexmax/YouTube-MadeForKids-Checker/releases/tag/v1.0.0) 
+](https://github.com/seexmax/YouTube-Exclusion-List-Builder/releases/tag/v1.0.0) 
 for macOS or Windows. 
 
 On Mac, you will most probably face an error message while executing the file like 
